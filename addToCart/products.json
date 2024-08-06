@@ -1,0 +1,67 @@
+[
+
+  {
+    "id": 1,
+    "name": "Supaghetti",
+    "price": 2000,
+    "image": "images/menu-1.png"
+
+  },
+
+  {
+    "id": 2,
+    "name": "Grilled Chicken",
+    "price": 2000,
+    "image": "images/menu-2.png"
+
+  },
+
+  {
+    "id": 3,
+    "name": "Nut",
+    "price": 2000,
+    "image": "images/menu-3.png"
+
+  },
+
+  {
+    "id": 4,
+    "name": "Spice Checken",
+    "price": 2000,
+    "image": "images/menu-4.png"
+
+  },
+
+  {
+    "id": 5,
+    "name": "Choco Cake",
+    "price": 2000,
+    "image": "images/menu-5.jpg"
+
+  },
+
+  {
+    "id": 6,
+    "name": "Pam Cake",
+    "price": 2000,
+    "image": "images/menu-6.jpg"
+
+  },
+
+  {
+    "id": 7,
+    "name": "Hamburger",
+    "price": 2000,
+    "image": "images/menu-7.png"
+
+  },
+
+  {
+    "id": 8,
+    "name": "Mix Juice",
+    "price": 2000,
+    "image": "images/menu-8.jpg"
+
+  }
+
+]
